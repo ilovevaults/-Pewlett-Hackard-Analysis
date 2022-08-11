@@ -1,6 +1,6 @@
 # -Pewlett-Hackard-Analysis
 ## Goals
-The goal of this analysis is to determine the number of retiring employees in each department and to determine which employees are eligible for the company's mentorship program. Based on the number of retiring employees who are eligible for the mentorship the company will decide if it will be enough to train new employees.
+The goal of this analysis is to determine the number of retiring employees in each department and to determine which employees are eligible for the company's mentorship program. Based on the number of retiring employees who are eligible for the mentorship the company will decide which department needs the most new employees.
 ## Results
 -Based on the results, both the senior staff and senior engineer titles have the most number of employees leaving 
 -While the assisant engineer title and the manager title both have the least amount of staff leaving. 
